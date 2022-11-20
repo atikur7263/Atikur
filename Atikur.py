@@ -2,7 +2,7 @@ Skip to content
 Sign up
 Atikur
 /
-Atikur 02
+Atikur
 Public
 Code
 Issues
@@ -11,7 +11,7 @@ Actions
 Projects
 Security
 Insights
-Atikur 02/Atikur 
+Atikur/Atikur 
 @Atikur 
 Atikur Create Atikur 
  1 contributor
@@ -102,7 +102,7 @@ def clear():
 def back():
 	login()
 
-TALHA="Atikur -"
+TALHA="Atikur-"
 imt="-Busra4786=="
 ak="Lover-"
 myid=uuid.uuid4().hex[:10].upper()
